@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+p {
+    color: white;
+}
+h1 {
+    color: white;
+    text-align:center ;
+    font-weight: normal;
+    padding-bottom: 5px;
+}
+nav {
+    margin: 20px 0px;
+    padding: 20px 0px;
+    background-color: slategray;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    margin-left: 60px;
+}
+footer a {
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+.qaswed {
+    background-color: white;
+    color: black;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+main p {
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
